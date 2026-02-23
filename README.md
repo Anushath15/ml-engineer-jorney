@@ -1,12 +1,9 @@
-# 60 Days LLM Engineer Journey 🚀
+# ML Engineer Journey 🚀
 
-Goal: Become industry-ready LLM & AI Systems Engineer in 60 days.
+Goal: Become industry-ready AIML Engineer.
 
-Target Role: ML Engineer Intern (LLM Systems)
+Target Role: ML Engineer Intern 
 
 Tracking:
 - Daily learning
 - Project building
-- Prompt engineering
-- RAG systems
-- Multi-agent architecture
